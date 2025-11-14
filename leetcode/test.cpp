@@ -1,11 +1,9 @@
-#include<bits/stdc++.h>
-#include <vector>
+#include<iostream>
 
 using namespace std;
 
 int main(int argc, char const *argv[])
 {
-	int val;
-	cin >> val;
-	printf("%d\n", val);
+    cout << "444" << endl;
+    return 0;
 }
